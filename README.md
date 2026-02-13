@@ -6,6 +6,7 @@ End-to-end data analytics projects using Excel, SQL, Python, and Power BI. Its c
 **Customer Shopping Behavior Analysis**
 
 **Project Overview**
+
 This repository contains an end-to-end **Data Analytics project** focused on analyzing **customer shopping behavior** using **Python, SQL, and Power BI**.  
 The project aims to extract meaningful insights from customer purchase data, identify patterns and trends, and present them through interactive visualizations to support data-driven decision-making.
 
